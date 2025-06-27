@@ -5,7 +5,7 @@ AI&ML DAY-4 TASK
 
 ##  About the Dataset
 
-- *Dataset Name*: Breast Cancer Wisconsin (Original) Data Set
+- *Dataset Name*: Breast Cancer Wisconsin Data Set
 - *Source*: UCI Machine Learning Repository
 - *Instances*: 699
 - *Attributes*: 10 predictive features + 1 target label (Class)
